@@ -4,7 +4,7 @@
 
 <p style="text-align:center"><em>I am currently learning Python Backend Dev with enthusiasm.</em><span style="color:#cccccc"></span></p>
 
-<p style="text-align:center"><span style="color:#cccccc">Master of two British shorthair male cats.</span></p>
+<p style="text-align:center"><span style>Master of two British shorthair male cats.</span></p>
 
 <p style="text-align:center"><em>I am looking forward to new knowledge and impressions.</em></p>
 
